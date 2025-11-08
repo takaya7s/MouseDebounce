@@ -1,0 +1,8 @@
+.vs/
+packages/
+x64/
+
+MouseDebounce/_bk/
+MouseDebounce/bin/
+MouseDebounce/x64/
+MouseDebounce/obj/
